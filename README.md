@@ -8,6 +8,10 @@ This project demonstrates CodeDefenders ability to obfuscate kernel and bootload
 
 The repository contains a VirtualBox snapshot of Windows 10 version 1507 running with obfuscated `ntoskrnl.exe` and `bootmgfw.efi` files. If you would like to see additional files obfuscated or additional functions obfuscated, feel free to join our community and ask! [Join our Discord](https://discord.gg/sgedeapTMm) The snapshot is compressed and spread over several ZIP files. All of these can be found in the `snapshot` folder. The password for the ZIP file is `password`. Simply open the `Windows-CodeDefender.zip` and it should automatically detect the rest of the zip files. You will need to install `VirtualBox` with `Version 7.2.2` or newer. 
 
+# Why?
+
+Our company goal is to build the worlds best software obfuscator for the Windows platform. We believe that in order to do so we must be as stable as possible. To demonstrate our software protectors capabilities the Windows kernel and boot components are a great proving ground. We are able to meet the demands of some very complicated programs without breaking them. If there are any additional programs or functions you would like to see obfuscated, please reach out and ask us. **We believe that no other software protector on the market can obfuscate these files without breaking them.**
+
 ### Additional Notes
 
 - winload.efi is also patched up to allow for loading a custom ntoskrnl.exe.
