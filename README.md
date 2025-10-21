@@ -47,3 +47,7 @@ The `ImgpValidateImageHash` function has been patched following the methodology 
 <div align="center">
   <img src="screenshots/boot-selection.png" alt="Windows CodeDefender Screenshot" />
 </div>
+
+### Credits
+
+All of the patching and hacking around in Windows EFI related files is well documented by [EfiGuard](https://github.com/Mattiwatti/EfiGuard), [UPGDSED](https://github.com/hfiref0x/UPGDSED). I'm pretty sure there are other repos with these hooks but these are the two I referenced.  
